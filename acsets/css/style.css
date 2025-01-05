@@ -308,7 +308,7 @@ ul .subnav{
     /* margin-top: 46px; */
     padding-top: 45%;
     /* background: url('/acsets/img/gifone.gif') top 30% right 40% / cover no-repeat; */
-    background: url('/acsets/img/gifone.gif') top 30% center / cover no-repeat;
+    background: url('./acsets/img/gifone.gif') top 30% center / cover no-repeat;
 }
 .slider .content_slider {
     /* align-items: center; */
@@ -431,13 +431,13 @@ div .nameAndImg {
 }
 
 .img1 {
-    background: url("/acsets/img/logo3.png") center / Contain  no-repeat;
+    background: url("./acsets/img/logo3.png") center / Contain  no-repeat;
 }
 .img2 {
-    background: url("/acsets/img/logo2.png") center / Contain  no-repeat;
+    background: url("./acsets/img/logo2.png") center / Contain  no-repeat;
 }
 .img3 {
-    background: url("/acsets/img/logo1.png") center / Contain  no-repeat;
+    background: url("./acsets/img/logo1.png") center / Contain  no-repeat;
 }
 
 
@@ -644,13 +644,13 @@ div .imgOfName3 {
     padding-top: 75%;
 }
 .imgNY{
-    background: url('/acsets/img/newyork.jpg') center / cover no-repeat;
+    background: url('./acsets/img/newyork.jpg') center / cover no-repeat;
 }
 .imgPa{
-    background: url('/acsets/img/paris.jpg') center / cover no-repeat;
+    background: url('./acsets/img/paris.jpg') center / cover no-repeat;
 }
 .imgSF{
-    background: url('/acsets/img/sanfran.jpg') center / cover no-repeat;
+    background: url('./acsets/img/sanfran.jpg') center / cover no-repeat;
 
 }
 .In4OfImg{
@@ -871,7 +871,7 @@ div .imgOfName3 {
     margin-top: 0px;
     position: relative;
     padding-top: 41.9%;
-    background: url('/acsets/img/map_location_no_marker.png') center / cover no-repeat;
+    background: url('./acsets/img/map_location_no_marker.png') center / cover no-repeat;
 }
 
 .image i{
