@@ -12,11 +12,11 @@
 }
 @font-face {
     font-family: 'helpme';
-    src: url('./acsets/font/HelpMe-Yz7Lq.ttf');
+    src: url('../font/HelpMe-Yz7Lq.ttf');
 }
 @font-face {
     font-family: SF-display;
-    src: url("./acsets/font/SF-Pro.otf");
+    src: url("../font/SF-Pro.otf");
 }
 html {
     /* background-color: rgb(11, 0, 0); */
